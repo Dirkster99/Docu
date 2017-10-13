@@ -4,6 +4,7 @@ This Repository contains documentation items (mainly) screenshots for Dirkster99
 # WPF Applications
 * Text Editor, UML Editor, Log4Net Viewer [Edi](https://github.com/Dirkster99/Edi)
 * [XmlExplorer](https://github.com/Dirkster99/XmlExplorer)
+* [YalvLib](https://github.com/Dirkster99/YalvLib)
 
 # WPF Dark and Light Theme Library
 * [MLib](https://github.com/Dirkster99/MLib)
