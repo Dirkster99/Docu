@@ -12,6 +12,7 @@ This Repository contains documentation items (mainly) screenshots for Dirkster99
 
 # WPF Controls
 
+* [Breadcrumb.Metro](https://github.com/Dirkster99/bm)
 * [ColorPickerLib](https://github.com/Dirkster99/ColorPickerLib)
 * [DropDownButtonLib](https://github.com/Dirkster99/DropDownButtonLib)
 * [File System Controls](https://github.com/Dirkster99/fsc)
