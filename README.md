@@ -5,6 +5,7 @@ See also <a href="http://sourcebrowser.io/Browse/Dirkster99">Soure Browser at Co
 
 # WPF Applications
 * Text Editor, UML Editor, Log4Net Viewer [Edi](https://github.com/Dirkster99/Edi)
+* [FilterTreeView](https://github.com/Dirkster99/FilterTreeView)
 * [Locult](https://github.com/Dirkster99/Locult)
 * [XmlExplorer](https://github.com/Dirkster99/XmlExplorer)
 * [YalvLib](https://github.com/Dirkster99/YalvLib)
