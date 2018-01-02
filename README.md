@@ -15,6 +15,7 @@ See also <a href="http://sourcebrowser.io/Browse/Dirkster99">Soure Browser at Co
 
 # WPF Controls
 
+* [AvalonDock](https://github.com/Dirkster99/AvalonDock)
 * [Breadcrumb.Metro](https://github.com/Dirkster99/bm)
 * [ColorPickerLib](https://github.com/Dirkster99/ColorPickerLib)
 * [DropDownButtonLib](https://github.com/Dirkster99/DropDownButtonLib)
