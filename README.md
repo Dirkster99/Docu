@@ -20,6 +20,7 @@ See also <a href="http://sourcebrowser.io/Browse/Dirkster99">Soure Browser at Co
 * [ColorPickerLib](https://github.com/Dirkster99/ColorPickerLib)
 * [DropDownButtonLib](https://github.com/Dirkster99/DropDownButtonLib)
 * [File System Controls](https://github.com/Dirkster99/fsc)
+* [HistoryControlLib](https://github.com/Dirkster99/HistoryControlLib)
 * [InplaceEditBoxLib](https://github.com/Dirkster99/InplaceEditBoxLib)
 * [MRULib](https://github.com/Dirkster99/MRULib)
 * [MsgBox](https://github.com/Dirkster99/MsgBox)
