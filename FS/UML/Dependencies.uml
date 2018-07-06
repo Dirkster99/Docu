@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Document
+  Size="1793.79,1793.79" xmlns="MiniUml">
+  <Component
+    Name="  BindToMLib"
+    ID="auto_12"
+    Position="515.310463659148,477.380012531328,167,75"
+    Stereotype="" />
+  <Component
+    Name="FolderBrowserDemo"
+    ID="auto_16"
+    Position="288.410429482798,478.956071954474,167,75"
+    Stereotype="" />
+  <Component
+    Name="ExplorerTestMLib"
+    ID="auto_D"
+    Position="377.660087719298,247.699561403509,167,75"
+    Stereotype="" />
+  <Component
+    Name="ExplorerTestLib"
+    ID="auto_10"
+    Position="637.60745614035,132.910087719299,167,75"
+    Stereotype="" />
+  <Component
+    Name="ExplorerTest"
+    ID="auto_11"
+    Position="382.396929824561,141.620614035088,167,75"
+    Stereotype="" />
+  <Boundary
+    Name="Apps"
+    ID=""
+    Position="269.035087719298,13.8359250398735,561.401913875581,565.681818181817" />
+  <Boundary
+    Name="Components"
+    ID=""
+    Position="19.8921451355662,16.1412480063808,209.105263157898,563.528708133974" />
+  <Component
+    Name="SettingsModel"
+    ID="auto_14"
+    Position="56.1553030303032,345.248903508772,125,75"
+    Stereotype="" />
+  <Component
+    Name="  ServiceLocator"
+    ID="auto_E"
+    Position="56.1553030303032,169.186702551835,125,75"
+    Stereotype="" />
+  <Component
+    Name="Settings"
+    ID="auto_F"
+    Position="56.1553030303032,257.217803030304,125,75"
+    Stereotype="" />
+  <Boundary
+    Name="  FSC_Components"
+    ID=""
+    Position="897.033293460924,13.8359250398735,573,565.681818181817" />
+  <Component
+    Name="FileListView"
+    ID="auto_0"
+    Position="939.033293460924,44.9740829346094,157,75"
+    Stereotype="" />
+  <Component
+    Name="FileSystemModels"
+    ID="auto_1"
+    Position="1136.03329346093,265.97408293461,157,75"
+    Stereotype="" />
+  <Component
+    Name="  FilterControlsLib"
+    ID="auto_3"
+    Position="939.033293460924,230.307416267943,157,75"
+    Stereotype="" />
+  <Component
+    Name="FolderBrowser"
+    ID="auto_4"
+    Position="939.033293460924,322.97408293461,157,75"
+    Stereotype="" />
+  <Component
+    Name="FolderControlsLib"
+    ID="auto_2"
+    Position="939.033293460924,137.640749601277,157,75"
+    Stereotype="" />
+  <Component
+    Name="TestFileSystemModels (UnitTest)"
+    ID="auto_5"
+    Position="944.215111642743,466.564992025519,213,75"
+    Stereotype="" />
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_0"
+    FromArrow=""
+    To="auto_1"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="1096.03329346092,79.9740829346094" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="1204.03329346093,265.97408293461" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_2"
+    FromArrow=""
+    To="auto_1"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="1096.03329346092,156.97408293461" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="1160.03329346093,265.97408293461" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_3"
+    FromArrow=""
+    To="auto_1"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="1096.03329346092,291.97408293461" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="1136.03329346093,291.97408293461" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_4"
+    FromArrow=""
+    To="auto_1"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="1096.03329346092,361.97408293461" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="1156.03329346093,340.97408293461" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_5"
+    FromArrow=""
+    To="auto_1"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="1157.21511164274,504.837719298248" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="1203.16965709731,340.97408293461" />
+  </Inheritance>
+  <Component
+    Name="MWindowLib"
+    ID="auto_7"
+    Position="416.756906930082,728.83240404898,170,75"
+    Stereotype="" />
+  <Component
+    Name="MLib"
+    ID="auto_C"
+    Position="416.756906930082,635.33240404898,170,75"
+    Stereotype="" />
+  <Component
+    Name="MWindowInterfacesLib"
+    ID="auto_B"
+    Position="416.756906930082,822.33240404898,170,75"
+    Stereotype="" />
+  <Boundary
+    Name="NuGet"
+    ID=""
+    Position="20.8987240829306,605.957037480065,807.681818181831,314.227272727271" />
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_D"
+    FromArrow=""
+    To="auto_C"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="491.250263672373,322.699561403509" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="491.326683644599,635.33240404898" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_D"
+    FromArrow=""
+    To="auto_E"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="377.660087719298,260.672134882662" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="181.155303030303,217.360446570974" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_D"
+    FromArrow=""
+    To="auto_F"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="377.660087719298,291.427714324756" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="181.155303030303,291.712922739305" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_D"
+    FromArrow=""
+    To="auto_10"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="544.660087719298,280.837719298246" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="663.896929824561,207.910087719299" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_11"
+    FromArrow=""
+    To="auto_10"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="549.396929824561,176.837719298246" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="637.60745614035,176.910087719299" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_D"
+    FromArrow=""
+    To="auto_12"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="531.507832080199,322.699561403509" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="531.436403508771,477.380012531328" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_10"
+    FromArrow=""
+    To="auto_2"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="804.60745614035,172.837719298246" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="939.033293460924,172.691414053104" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_10"
+    FromArrow=""
+    To="auto_3"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="781.896929824561,207.910087719299" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="939.033293460924,269.307416267943" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_10"
+    FromArrow=""
+    To="auto_0"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="762.896929824561,132.910087719299" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="939.033293460924,81.9740829346094" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_10"
+    FromArrow=""
+    To="auto_4"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="762.15982908746,207.910087719299" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="939.033293460924,358.97408293461" />
+  </Inheritance>
+  <Component
+    Name="WatermarkerControlsLib"
+    ID="auto_13"
+    Position="153.487838915471,630.334472544999,176,75"
+    Stereotype="" />
+  <Component
+    Name="UserNotification"
+    ID="auto_15"
+    Position="258.306020733652,726.789017999544,137,75"
+    Stereotype="" />
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_D"
+    FromArrow=""
+    To="auto_14"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="410.686403508771,322.699561403509" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="181.155303030303,386.248903508772" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_16"
+    FromArrow=""
+    To="auto_C"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="430.023332708605,553.956071954474" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="430.393270566439,635.33240404898" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_16"
+    FromArrow=""
+    To="auto_15"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="363.879585326954,553.956071954474" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="363.515948963318,726.789017999544" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_16"
+    FromArrow=""
+    To="auto_13"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="299.106858054227,553.956071954474" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="298.379585326954,630.334472544999" />
+  </Inheritance>
+  <Component
+    Name="HistoryControlLib"
+    ID="auto_17"
+    Position="654.312042894962,637.863934132006,138.81841432225,75"
+    Stereotype="" />
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_12"
+    FromArrow=""
+    To="auto_17"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="672.401372750057,552.380012531328" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="672.612438151874,637.863934132006" />
+  </Inheritance>
+  <Inheritance
+    Name=""
+    ID=""
+    Position="0,0"
+    From="auto_10"
+    FromArrow=""
+    To="auto_17"
+    ToArrow="Uml.Arrows.Triangle">
+    <Anchor
+      Name=""
+      ID=""
+      Position="733.257575757576,207.910087719299" />
+    <Anchor
+      Name=""
+      ID=""
+      Position="732.848484848481,637.863934132006" />
+  </Inheritance>
+</Document>
