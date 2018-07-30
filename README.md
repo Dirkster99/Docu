@@ -4,14 +4,14 @@ This Repository contains documentation items (mainly) screenshots for Dirkster99
 See also <a href="http://sourcebrowser.io/Browse/Dirkster99">Soure Browser at Code Connect</a>.
 
 # WPF Applications
-* Text Editor, UML Editor, Log4Net Viewer [Edi](https://github.com/Dirkster99/Edi)
+* Text Editor, UML Editor, Log4Net Viewer [Edi](https://github.com/Dirkster99/Edi) [![Build status](https://ci.appveyor.com/api/projects/status/7r06lm7v5o9xq7xj?svg=true)](https://ci.appveyor.com/project/Dirkster99/edi)
 * [FilterTreeView](https://github.com/Dirkster99/FilterTreeView)
 * [Locult](https://github.com/Dirkster99/Locult)
 * [XmlExplorer](https://github.com/Dirkster99/XmlExplorer)
 * [YalvLib](https://github.com/Dirkster99/YalvLib)
 
 # WPF Dark and Light Theme Library
-* [MLib](https://github.com/Dirkster99/MLib)
+* [MLib](https://github.com/Dirkster99/MLib)[![Build status](https://ci.appveyor.com/api/projects/status/mhg80nk8ywbk9dat?svg=true)](https://ci.appveyor.com/project/Dirkster99/mlib)
 
 # WPF Controls
 
