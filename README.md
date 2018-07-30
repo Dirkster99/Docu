@@ -15,9 +15,9 @@ See also <a href="http://sourcebrowser.io/Browse/Dirkster99">Soure Browser at Co
 
 # WPF Controls
 
-* [AvalonDock](https://github.com/Dirkster99/AvalonDock)
-* [Breadcrumb.Metro](https://github.com/Dirkster99/bm)
-* [ColorPickerLib](https://github.com/Dirkster99/ColorPickerLib)
+* [AvalonDock](https://github.com/Dirkster99/AvalonDock) [![Build status](https://ci.appveyor.com/api/projects/status/kq2wyupx5hm7fok2?svg=true)](https://ci.appveyor.com/project/Dirkster99/avalondock)
+* [Breadcrumb.Metro](https://github.com/Dirkster99/bm) [![Build status](https://ci.appveyor.com/api/projects/status/kq2wyupx5hm7fok2?svg=true)](https://ci.appveyor.com/project/Dirkster99/bm)
+* [ColorPickerLib](https://github.com/Dirkster99/ColorPickerLib)[![Build status](https://ci.appveyor.com/api/projects/status/kq2wyupx5hm7fok2?svg=true)](https://ci.appveyor.com/project/Dirkster99/ColorPickerLib)
 * [DropDownButtonLib](https://github.com/Dirkster99/DropDownButtonLib)
 * [File System Controls](https://github.com/Dirkster99/fsc)
 * [HistoryControlLib](https://github.com/Dirkster99/HistoryControlLib)
