@@ -7,8 +7,8 @@ See also <a href="http://sourcebrowser.io/Browse/Dirkster99">Soure Browser at Co
 * Text Editor, UML Editor, Log4Net Viewer [Edi](https://github.com/Dirkster99/Edi) [![Build status](https://ci.appveyor.com/api/projects/status/7r06lm7v5o9xq7xj?svg=true)](https://ci.appveyor.com/project/Dirkster99/edi)
 * [FilterTreeView](https://github.com/Dirkster99/FilterTreeView) [![Build status](https://ci.appveyor.com/api/projects/status/u762r32aupstrsph?svg=true)](https://ci.appveyor.com/project/Dirkster99/filtertreeview)
 * [Locult](https://github.com/Dirkster99/Locult)
-* [XmlExplorer](https://github.com/Dirkster99/XmlExplorer)
-* [YalvLib](https://github.com/Dirkster99/YalvLib)
+* [XmlExplorer](https://github.com/Dirkster99/XmlExplorer) [![Build status](https://ci.appveyor.com/api/projects/status/u762r32aupstrsph?svg=true)](https://ci.appveyor.com/project/Dirkster99/XmlExplorer)
+* [YalvLib](https://github.com/Dirkster99/YalvLib) [![Build status](https://ci.appveyor.com/api/projects/status/u762r32aupstrsph?svg=true)](https://ci.appveyor.com/project/Dirkster99/YalvLib)
 
 # WPF Dark and Light Theme Library
 * [MLib](https://github.com/Dirkster99/MLib) [![Build status](https://ci.appveyor.com/api/projects/status/mhg80nk8ywbk9dat?svg=true)](https://ci.appveyor.com/project/Dirkster99/mlib)
