@@ -24,6 +24,7 @@ See also <a href="http://sourcebrowser.io/Browse/Dirkster99">Soure Browser at Co
 * [InplaceEditBoxLib](https://github.com/Dirkster99/InplaceEditBoxLib) [![Build status](https://ci.appveyor.com/api/projects/status/7g6bx6uku9e1qow8?svg=true)](https://ci.appveyor.com/project/Dirkster99/inplaceeditboxlib)
 * [MRULib](https://github.com/Dirkster99/MRULib) [![Build status](https://ci.appveyor.com/api/projects/status/hs63uymamjh9p34u?svg=true)](https://ci.appveyor.com/project/Dirkster99/mrulib)
 * [MsgBox](https://github.com/Dirkster99/MsgBox) [![Build status](https://ci.appveyor.com/api/projects/status/0fsqyn7spal3ir2k?svg=true)](https://ci.appveyor.com/project/Dirkster99/msgbox)
+* [SuggestBoxLib](https://github.com/Dirkster99/SuggestBoxLib) [![Build status](https://ci.appveyor.com/api/projects/status/0fsqyn7spal3ir2k?svg=true)](https://ci.appveyor.com/project/Dirkster99/SuggestBoxLib)
 * [NumericUpDownLib](https://github.com/Dirkster99/NumericUpDownLib) [![Build status](https://img.shields.io/appveyor/ci/Dirkster99/NumericUpDownLib.svg)](https://ci.appveyor.com/project/Dirkster99/NumericUpDownLib)
 * [UnitComboLib](https://github.com/Dirkster99/UnitComboLib) [![Build status](https://ci.appveyor.com/api/projects/status/8rmd1b9d35efwunj?svg=true)](https://ci.appveyor.com/project/Dirkster99/unitcombolib)
 * [UserNotifications](https://github.com/Dirkster99/UserNotifications) [![Build status](https://ci.appveyor.com/api/projects/status/a4gtps078k9fnp9i?svg=true)](https://ci.appveyor.com/project/Dirkster99/usernotifications)
