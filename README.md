@@ -32,6 +32,7 @@ See also <a href="http://sourcebrowser.io/Browse/Dirkster99">Soure Browser at Co
 
 # Low Level Backend Libraries
 * [TreeLib](https://github.com/Dirkster99/TreeLib/) [![Build status](https://ci.appveyor.com/api/projects/status/de18xc6i431xnlvg?svg=true)](https://ci.appveyor.com/project/Dirkster99/treelib)
+* [WSF](https://github.com/Dirkster99/WSF/) [![Build status](https://ci.appveyor.com/api/projects/status/i17iks30rv2xh5gg?svg=true)](https://ci.appveyor.com/project/Dirkster99/wsf)
 
 # MS-Dos Command Line Application
 * [NextLevel](https://github.com/Dirkster99/NextLevel)
